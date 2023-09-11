@@ -5,7 +5,6 @@
 <p>
 
 </p>
-![Test cases](images/img.png)
 
 - Date:
 - Difficulty:
@@ -18,6 +17,8 @@
 ### My solution
 
 ### Result
+
+<img src="../images/">
 
 ### Optimal Solutions
 

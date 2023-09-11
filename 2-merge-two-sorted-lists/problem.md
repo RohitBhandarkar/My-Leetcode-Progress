@@ -13,7 +13,7 @@ Return the head of the merged linked list.
 
 - Date: 19th August 2023
 - Difficulty: Easy
-- Solved: Yes/No
+- Solved: Yes
 - Problem type: Linked Lists
 - Language used: C
 
